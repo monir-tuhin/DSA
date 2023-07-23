@@ -32,6 +32,7 @@ public class RotateAnArrayByK {
             res[j]=arr[x];
             j++;
         }
+
         System.out.println("Array after rotate in to left::::::" + Arrays.toString(res));
 
         /*for(int z=0;z<n;z++){
